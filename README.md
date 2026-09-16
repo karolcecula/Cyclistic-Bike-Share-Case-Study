@@ -24,10 +24,11 @@ To reproduce the analysis:
 How do annual members and casual riders use Cyclistic bikes differently?
 
 ## Key Findings
-- Casual riders take longer rides.
+- **1.20% of casual rides lasted more than 2 hours, compared with only 0.21% of rides made by annual members.** This means that casual rides were nearly six times more likely to exceed two hours, suggesting different riding purposes between the two groups.
 - Members show stronger commuting patterns.
 - Casual riders are more active on weekends.
-- Casual usage is more seasonal.
+- Casual usage is more seasonal.Also Casual rides are more concentrated in summer, with **47.67% occurring during the summer months compared with 36.00% of annual member rides — a difference of 11.67 percentage points.**
+- Both casual riders and annual members use electric bikes almost **twice** as often as classic bikes.
 
 ## Recommendations
 1. Launch membership campaigns before the summer season.
